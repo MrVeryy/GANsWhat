@@ -15,3 +15,4 @@ dependencies:
       - click==8.2.1
       - requests==2.32.4
       - python-dotenv==1.1.1
+      - matplotlib==3.9.2
