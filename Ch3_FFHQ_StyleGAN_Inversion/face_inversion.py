@@ -5,7 +5,6 @@ import torchvision.models as models
 from torchvision import transforms as T
 from stylegan_utils import dnnlib
 from stylegan_utils import legacy
-import global_utils
 
 # ------------------------------------------------------------------
 # models
